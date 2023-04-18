@@ -1,0 +1,10 @@
+Spotify Dataset : https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset
+Anime Dataset : https://www.kaggle.com/datasets/hernan4444/anime-recommendation-database-2020?select=animelist.csv
+Film Dataset : https://www.kaggle.com/datasets/mazenramadan/imdb-most-popular-films-and-series
+Icone: https://www.flaticon.com/
+
+The Musical Sentiment Dataset: https://www.kaggle.com/datasets/cakiki/muse-the-musical-sentiment-dataset
+
+Libreries:
+
+- Pandas
